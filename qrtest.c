@@ -23,7 +23,7 @@
 #include <dirent.h>
 #include <ctype.h>
 #include "quirc.h"
-#include "jpeglib.h"
+#include <jpeglib.h>
 #include <setjmp.h>
 #include <time.h>
 #include "dbgutil.h"
